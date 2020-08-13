@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="glide_slider_background_color">#FFFFFF</color>
+    <color name="glide_slider_indicator_color">#FFFFFF</color>
+    <color name="glide_slider_title_color">#FFFFFF</color>
+    <color name="glide_slider_description_color">#ffe105</color>
+</resources>

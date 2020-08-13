@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/GlideSliderBackgroundStyle">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/glide_slider_image"
+        android:scaleType="centerCrop"
+        style="@style/GlideSliderImageStyle" />
+
+    <ProgressBar
+        android:id="@+id/glide_slider_loading_bar"
+        style="@style/GlideSliderLoadingStyle" />
+
+    <LinearLayout
+        android:id="@+id/glide_slider_description_layout"
+        style="@style/GlideSliderDescriptionBackgroundStyle">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/glide_slider_title"
+            style="@style/GlideSliderTitleTextStyle" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/glide_slider_description"
+            android:visibility="gone"
+            style="@style/GlideSliderDescriptionTextStyle" />
+
+    </LinearLayout>
+</RelativeLayout>

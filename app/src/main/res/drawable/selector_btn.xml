@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2017. Coding By Emad Pourahmadi
+  ~ Contactss me : 09354912598.
+  ~ Email  : emad_pa_69@yahoo.com
+  ~ WebSite : www.emadpourahmadi.ir
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android" android:exitFadeDuration="@android:integer/config_longAnimTime">
+    <item android:state_focused="true" android:state_pressed="true">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+            <stroke android:width="2.0dip" android:color="@color/title4" />
+            <solid android:color="@color/title4" />
+        </shape>
+    </item>
+    <item android:state_focused="false" android:state_pressed="true">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+
+            <stroke android:width="2.0dip" android:color="@color/title3" />
+            <solid android:color="@color/title2" />
+        </shape>
+    </item>
+    <item android:state_focused="true" android:state_pressed="false">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+
+            <stroke android:width="2.0dip" android:color="@color/title2Dark" />
+            <solid android:color="@color/title1" />
+        </shape>
+    </item>
+    <item android:state_focused="false" android:state_pressed="false">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+            <solid android:color="@color/bg_btn" />
+
+        </shape>
+    </item>
+</selector>

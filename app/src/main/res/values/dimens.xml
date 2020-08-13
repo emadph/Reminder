@@ -1,0 +1,28 @@
+<resources>
+    <dimen name="editTextSize">45dp</dimen>
+    <dimen name="bottomBarRound">16dp</dimen>
+
+
+    <dimen name="margin">10sp</dimen>
+    <dimen name="marginLR">20sp</dimen>
+    <dimen name="marginBigLR">40sp</dimen>
+    <dimen name="marginSmall">5sp</dimen>
+
+    <dimen name="Toolbar">56dp</dimen>
+
+
+    <dimen name="padding">10sp</dimen>
+    <dimen name="paddingSmall">5sp</dimen>
+    <dimen name="paddingSmall2">3sp</dimen>
+    <dimen name="title">22sp</dimen>
+    <dimen name="title1">18sp</dimen>
+    <dimen name="title2">15sp</dimen>
+    <dimen name="titleSmall">13sp</dimen>
+
+
+    <dimen name="loading">48dip</dimen>
+
+    <dimen name="logoSize">200dp</dimen>
+    <dimen name="header">120dp</dimen>
+
+</resources>

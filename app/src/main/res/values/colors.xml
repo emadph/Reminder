@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#add5f8</color>
+    <color name="colorPrimaryDark">#80b2f1</color>
+    <color name="colorAccent">#add5f8</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="highlightGray">#e5e5e5</color>
+    <color name="normalGray">#7b7b7b</color>
+    <color name="red">#e90818</color>
+
+
+    <color name="toolbar">#add5f8</color>
+    <color name="bg_red_error">#ff5254</color>
+    <color name="bg_SnkBar">#bc616161</color>
+    <color name="bg_btn">#80b2f1</color>
+
+
+    <color name="force_close">#6286ae</color>
+    <color name="force_close_msg">#767777</color>
+
+    <color name="divider_grey">#d0ccda</color>
+
+
+    <color name="title1">#5f5c65</color>
+    <color name="title2">#9f9ba9</color>
+    <color name="title2Dark">#605d68</color>
+    <color name="title3">#AFAFAF</color>
+    <color name="title4">#d0ccdd</color>
+
+
+    <color name="underLineColor">#b1b1b1</color>
+    <color name="startColor">#006C7E</color>
+    <color name="endColor">#b0f866</color>
+    <color name="white2">#fefcfd</color>
+    <color name="bg1">#80b2f1</color>
+    <color name="bg2">#4f7ac8</color>
+    <color name="bg3">#35488d</color>
+    <color name="bg4">#16193c</color>
+
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">عماد پوراحمدی</string>
+    <string name="cancel">انصراف</string>
+
+
+    <string name="force_close">انگار یک مشکلی پیش اومده …</string>
+    <string name="force_close_msg">با عرض پوزش . متاسفانه خطایی در انجام مراحل به وجود آمده است .\n
+        در صورت تکرار این خطا با پشتیبانی تماس بگیرید !
+    </string>
+
+
+    <string name="back">بازگشت</string>
+
+
+    <string name="double_backpres">برای خروج یک بار دیگر دکمه بازگشت را بزنید.</string>
+    <string name="serverErorr">خطا در برقراری ارتباط</string>
+
+
+    <string name="noHeader" />
+    <string name="editProfile">ثبت اطلاعات</string>
+    <string name="error_fields_required">همه فیلد های را کامل نمائید.</string>
+    <string name="addReminder">افزودن یادآوری جدید</string>
+    <string name="addReminderTitle">یادآور</string>
+    <string name="editDetail">جزییات یادآوری</string>
+    <string name="reminderTitle">عنوان یادآوری</string>
+    <string name="plsSelectDate">تاریخ یادآوری</string>
+    <string name="plsSelectTime">زمان یادآوری</string>
+
+    <string name="selecTimeNext">انتخاب زمان</string>
+    <string name="confirmTime">تایید</string>
+    <string name="deletedMsg">یادآور مورد نظر حذف گردید.</string>
+    <string name="edit">ویرایش</string>
+    <string name="strSuccessAdd">یادآور فوق با موفقیت اضافه گردید.</string>
+    <string name="strSuccessEdit">يادآور فوق با موفقیت ویرایش شد.</string>
+</resources>

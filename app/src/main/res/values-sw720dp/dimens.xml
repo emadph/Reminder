@@ -1,0 +1,22 @@
+<resources>
+    <dimen name="marginSmall">15dp</dimen>
+    <dimen name="margin">20dp</dimen>
+
+    <dimen name="Toolbar">95dp</dimen>
+
+
+    <dimen name="padding">15dp</dimen>
+    <dimen name="paddingSmall">10dp</dimen>
+    <dimen name="paddingSmall2">7dp</dimen>
+
+
+    <dimen name="title1">28sp</dimen>
+    <dimen name="title2">25sp</dimen>
+    <dimen name="titleSmall">23sp</dimen>
+
+
+    <dimen name="loading">58dip</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+</resources>
